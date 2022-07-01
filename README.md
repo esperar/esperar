@@ -1,4 +1,13 @@
-### Hi there 👋
+### 안녕하십니까 👋
+
+저는 프론트엔드 개발 공부를 하고있는 김희망입니다, 개발자로서 커뮤니케이션 능력을 중요하게 생각하고  
+백엔드 개발도 함께 공부를 하여 서로의 입장에서 생각할 수 있는 능력을 기르고 있습니다.
+
+🌱 I'm currently learning 
+- HTML CSS
+- JavaScript
+- TypeScript
+- React.js
 
 <!--
 **KIMHUEMANG/Kimhuemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
