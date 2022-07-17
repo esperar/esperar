@@ -1,13 +1,12 @@
 ### Hi there👋
 
-저는 프론트엔드 개발 공부를 하고있는 김희망입니다, 개발자로서 팀원과 커뮤니케이션 능력을 중요하게 생각합니다.  
-백엔드 개발자들과 원활한 커뮤니케이션을 하기위해 그 분야도 함께 알아가고 있습니다.  
-또 개발자의 역량을 키울 수 있는 가장 좋은 방법은 팀프로젝트라고 생각하고있습니다.😄
+Back-End 를 공부하고있고 , 배움을 정말 좋아하는 개발자 김희망이라고 합니다.
+저는 Front-End를 공부하다가 Back-End로 전향하게 되었습니다. 프로젝트활동을 하면서 Back-End의 중요성을 느끼고 흥미를 가지게 됐습니다.  
+항상 팀 내에서 꼭 필요하고 커뮤니케이션이 원활한 개발자가 될것입니다.
 
 ### 🌱 I'm currently learning
-[JavaScript](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)  
-[TypeScript](https://ko.wikipedia.org/wiki/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)  
-[React.js](https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8_(%EC%9B%B9_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC))  
+[Java](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))  
+[Spring](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)    
 
 <!--
 **KIMHUEMANG/Kimhuemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
