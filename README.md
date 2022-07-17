@@ -1,9 +1,7 @@
 ### Hi there👋
 
-Back-End 를 공부하고있고 , 배움을 정말 좋아하는 개발자 김희망이라고 합니다.  
-저는 Front-End를 공부하다가 Back-End로 전향하게 되었습니다.  
-프로젝트활동을 하면서 Back-End의 중요성을 느끼고 흥미를 가지게 됐습니다.  
-항상 팀 내에서 꼭 필요하고 커뮤니케이션이 원활한 개발자가 될것입니다.
+**I wanna be a Back-End engineer**  
+Helping people out of sight .. How cool is It? 
 
 ### 🌱 I'm currently learning
 [Java](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))  
