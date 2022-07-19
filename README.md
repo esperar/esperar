@@ -1,6 +1,6 @@
 ### Hi there👋
 
-**I wanna be a FULL STACK ENGINEER !**  
+**I wanna be a Front-End Engineer that is the same as Full-Stack Engineer !**  
 My name is Huemang and I target to be a Full Stack Engineer so..
 
 ### 🌱 I'm currently learning
