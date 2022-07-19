@@ -12,6 +12,8 @@ My name is Huemang and I target to be a Front-End Developer so..
 [Java](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))  
 [Spring](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=omni)
+
 <!--
 **KIMHUEMANG/Kimhuemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
