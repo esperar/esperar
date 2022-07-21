@@ -4,13 +4,13 @@
 My name is Huemang and I target to be a Front-End Developer so..
 
 ### 🌱 I'm currently learning
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?sty quar le=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?sty quar le=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?sty quar le=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?sty quar le=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?sty quar le=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?sty quar le=flat-square&logo=React&logoColor=white"/></a> &nbsp 
 
 
 ### 😄 I'm interested in..
-<img src="https://img.shields.io/badge/Spring-6DB33F?sty quar le=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?sty quar le=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=github_dark)
 
