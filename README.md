@@ -1,7 +1,9 @@
 ### Hi there👋
 
 **I wanna be a Front-End Engineer that is the same as Full-Stack Engineer !**  
-My name is Huemang and I target to be a Front-End Developer so..
+새로운 지식을 쌓는다는 것 끝없는 배움 그것들이 제가 개발자의 길을 걷게된 이유입니다.  
+하나하나 쌓은 나의 지식들은 훗날 성공적인 결과를 만들 것 입니다.  
+또 원할한 커뮤니케이션으로 팀원들과 잘 협업하는 것은 개발자로서 가장 중요한 능력이라 생각합니다.
 
 ### 🌱 I'm currently learning
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?sty quar le=flat-square&logo=JavaScript&logoColor=white"/></a> 
