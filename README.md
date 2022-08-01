@@ -1,13 +1,7 @@
 ### Hi there👋
 
-**I wanna be a Front-End Engineer that is the same as Full-Stack Engineer !**  
+**성실하게 살자!**  
   
-Accumulating new knowledge and endless learning Those are the reasons why I became a developer  
-  
-My knowledge accumulated one by one will make a successful result in the future. 
-  
-Also, I think that working well with team members through smooth communication is the most important skill as a developer.
-
 ### 🌱 I'm currently learning
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?sty quar le=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?sty quar le=flat-square&logo=TypeScript&logoColor=white"/></a> 
