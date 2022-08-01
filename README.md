@@ -1,6 +1,6 @@
 ### Hi there👋
 
-**성실하게 살자!**  
+**성실하게 또 열심히 살자**  
   
 ### 🌱 I'm currently learning
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?sty quar le=flat-square&logo=JavaScript&logoColor=white"/></a> 
