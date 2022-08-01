@@ -3,10 +3,9 @@
 **성실하게 또 열심히 살자**  
   
 ### 🌱 I'm currently learning
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?sty quar le=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?sty quar le=flat-square&logo=TypeScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/React-61DAFB?sty quar le=flat-square&logo=React&logoColor=white"/></a> 
-
+<img src="https://img.shields.io/badge/NestJS-E0234E?sty quar le=flat-square&logo=NestJS&logoColor=white"/></a> 
 
 ### 😄 I'm interested in..
 <img src="https://img.shields.io/badge/Spring-6DB33F?sty quar le=flat-square&logo=Spring&logoColor=white"/></a> 
