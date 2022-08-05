@@ -3,7 +3,7 @@
 **웹 개발 기술에 관심이 많습니다**  
   
 원활한 팀 프로젝트를 위하여 커뮤니케이션 능력을 쌓고있습니다.  
-웹 동작기능에 대해서 좀더 심오하게 공부중입니다.  
+웹 동작기능에 대해서 좀 더 심오하게 공부중입니다.  
 개발자로서 더 많은 가치창출을 위하여 더 많은 스택을 쌓고있습니다.  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=github_dark)
