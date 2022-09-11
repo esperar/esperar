@@ -2,13 +2,9 @@
 
 <br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=github_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KIMHUEMANG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=github_dark)
 
 
 
