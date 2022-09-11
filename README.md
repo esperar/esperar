@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=github_dark)
 
 ## ✨ My Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hope0206)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hope0206)](https://velog.io/@hope0206)
 
 
 ## ⚒️ My Stack ⚒️
