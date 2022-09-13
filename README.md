@@ -7,7 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KIMHUEMANG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=tokyonight) 
+<img src ="https://github-readme-stats.vercel.app/api?username=KIMHUEMANG&show_icons=true&theme=tokyonight" width = "400" height = >
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=huemang)](https://solved.ac/huemang/)
 
 ## ✨ My Velog ✨
