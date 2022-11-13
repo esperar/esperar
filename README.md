@@ -1,5 +1,8 @@
-### 👋 Hi Back-End Engineer 김희망입니다. 
+### 👋 Hi I'm a Back-End Engineer 
 
-**Spring boot , JPA** 기술로 백엔드 개발을 합니다.  
-현재 **Rust**라는 언어와 **Go**라는 언어에 흥미가 생겼습니다.  
-혼자 코드를 작성하기 보단 팀원들과 함께 협업하고 리뷰하는 활동을 중요하게 생각합니다.
+enjoy the process, have a leadership, be sincere
+
+#### My Info
+- language : Java, Kotlin, JavaScript 
+- framework : Spring boot
+- email : s22043@gsm.hs.kr
