@@ -1,6 +1,7 @@
 ### 👋 Hi I'm a Back-End Engineer 
 
-enjoy the process, have a leadership, be sincere
+Enjoy a process, Have a leadership, Be sincere, Excellent challenge spirit.  
+I am trying to better communicate with my team, This is a real developer
 
 #### My Info
 - language : Java, Kotlin, JavaScript 
