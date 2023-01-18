@@ -7,4 +7,4 @@ I am trying to better communicate with my team, Thanks for reading.
 - language : Java, Kotlin
 - framework : Spring boot
 - email : s22043@gsm.hs.kr
-- Tistory : https://esperer.tistory.com
+- tistory : https://esperer.tistory.com
