@@ -16,4 +16,6 @@ I will devote myself to learning with this attitude. Thx for reading
 
 <br>
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=esperar&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
