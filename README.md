@@ -11,12 +11,9 @@ I will devote myself to learning with this attitude. Thx for reading
 
 <br>
 
-<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esperar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esperar&layout=compact&theme=tokyonight)
   
-</div>
 
 <br>
 
