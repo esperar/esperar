@@ -9,7 +9,7 @@ I will devote myself to learning with this attitude. Thx for reading
 - email : s22043@gsm.hs.kr
 - blog : [tistory](https://esperer.tistory.com), [velog](https://velog.io/@hope0206)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=esperer&postId=13&theme=esperer)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=esperer&postId=13&theme=default)](https://github.com/loosie/github-readme-tistory-card)
 
 
 ### 🌱 My GitHub Stats
