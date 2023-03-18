@@ -9,5 +9,11 @@ I will devote myself to learning with this attitude. Thx for reading
 - email : s22043@gsm.hs.kr
 - blog : [tistory](https://esperer.tistory.com), [velog](https://velog.io/@hope0206)
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esperar&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esperar&layout=compact&theme=tokyonight)
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=esperar&row=1)](https://github.com/ryo-ma/github-profile-trophy)
