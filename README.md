@@ -17,7 +17,9 @@ I will devote myself to learning with this attitude. Thx for reading
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esperar&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=huemang)](https://solved.ac/huemang/)
 
+ <div align = "center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=esperar&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
+ </div>
 
