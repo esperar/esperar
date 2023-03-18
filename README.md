@@ -24,7 +24,7 @@ I will devote myself to learning with this attitude. Thx for reading
 
  <div align = "center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=esperar&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=esperar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
  </div>
 
