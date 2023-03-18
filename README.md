@@ -14,7 +14,7 @@ I will devote myself to learning with this attitude. Thx for reading
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esperar&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esperar&show_icons=true&theme=dracula)
   
 
   
