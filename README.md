@@ -14,6 +14,6 @@ I will devote myself to learning with this attitude. Thx for reading
 ---
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=esperer&postId=15)](https://esperer.tistory.com/16)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=esperer&postId=15)](https://esperer.tistory.com/17)
 
 
