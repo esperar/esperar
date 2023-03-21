@@ -9,6 +9,7 @@ I will devote myself to learning with this attitude. Thx for reading
 ### 🖥 My Info
 - stack : Java, Kotlin, Spring boot, AWS, Docker
 - email : s22043@gsm.hs.kr
+- others : [instagram](https://www.instagram.com/k_.hm/)
 
 ---
 
