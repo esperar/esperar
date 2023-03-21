@@ -7,9 +7,8 @@ I will devote myself to learning with this attitude. Thx for reading
 ---
 
 ### 🖥 My Info
-- stack : Java, Kotlin, Spring boot
+- stack : Java, Kotlin, Spring boot, AWS, Docker
 - email : s22043@gsm.hs.kr
-- blog : [tistory](https://esperer.tistory.com), [velog](https://velog.io/@hope0206)
 
 ---
 
