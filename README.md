@@ -20,5 +20,5 @@
 
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=esperer&postId=16)](https://esperer.tistory.com/16)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hope0206&tag=kotlin)](https://velog.io/@hope0206/Kotlin-%EC%8B%9C%ED%80%80%EC%8A%A4%EC%99%80-%EC%A7%80%EC%97%B0-%EA%B3%84%EC%82%B0-Sequences-and-Lazy-Evaluation)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hope0206&tag=sequence)](https://velog.io/@hope0206/Kotlin-%EC%8B%9C%ED%80%80%EC%8A%A4%EC%99%80-%EC%A7%80%EC%97%B0-%EA%B3%84%EC%82%B0-Sequences-and-Lazy-Evaluation)
 
