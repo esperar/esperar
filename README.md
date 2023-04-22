@@ -4,6 +4,10 @@
 > I am trying to better communicate with my colleague or customer.  
 > I will devote myself to learning with this attitude. Thx for reading.
 
+> 주도적인 성향으로 성실하게 과정을 즐기며 도전적인 활동을 하고있는 김희망이라고 합니다.
+> 팀원 뿐만 아닌 서비스 사용자들에게도 귀기울이며 더 나은 글로버 커뮤니케이트 활동을 위해 노력중입니다.
+> 이러한 성장 스탠스를 유지하며 최고가 되기위해 더욱 나아가겠습니다.
+
 ---
 
 ### 🖥 My Info
