@@ -4,7 +4,7 @@
 > I am trying to better communicate with my colleague or customer.  
 > I will devote myself to learning with this attitude. Thx for reading.
 
-> 주도적인 성향으로 성실하게 과정을 즐기며 도전적인 활동을 하고있는 백엔드 개발자 김희망이라고 합니다. 
+> 주도적인 성향으로 성실하게 과정을 즐기며 도전적인 활동을 하고있는 백엔드 개발자 김희망이라고 합니다.  
 > "개발은 레이스가 아니다" 라는 신념과 함께 팀원들과 함께 성장할 수 있도록 개발에 전념하고 있으며,  
 > 팀원 뿐만 아닌 서비스 사용자들에게도 귀기울이며 더 나은 글로버 커뮤니케이트 활동을 위해 노력중입니다.  
 > 마이크로 서비스 아키텍처 기술을 지향하며 집단에서의 코드 스타일 가이드를 작성하며 보다 더 나은 개발 환경을 만듭니다.  
