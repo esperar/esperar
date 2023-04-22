@@ -1,6 +1,6 @@
 ### 👋 Hi. Welcome to Esperer's GitHub! 
 
-> I'm a Back-End Engineer Esperèr
+> I'm a Back-End Engineer Esperèr. 
 > **Enjoy a process, Have a leadership, Be sincere, Excellent challenge spirit.**  
 > I am trying to better communicate with my colleague or customer.  
 > I will devote myself to learning with this attitude. Thx for reading.
