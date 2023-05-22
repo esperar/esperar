@@ -13,7 +13,7 @@
 ---
 
 ### 🖥 My Info
-- stack : Java, Kotlin, Spring boot, AWS, Docker
+- stack : Java, Kotlin, python, Spring boot, AWS, Docker
 - email : s22043@gsm.hs.kr
 - others : [instagram](https://www.instagram.com/k_.hm/) [tistory](https://esperer.tistory.com/) [velog](https://velog.io/@hope0206)
 
