@@ -8,7 +8,7 @@
 ---
 
 ### 🖥 My Info
-- language : Java, Kotlin, Spring, AWS, Docker
+- stack : Java, Kotlin, Spring, AWS, Docker
 - email : s22043@gsm.hs.kr
 - others : [instagram](https://www.instagram.com/k_.hm/) [tistory](https://esperer.tistory.com/) [velog](https://velog.io/@hope0206)
 
