@@ -8,8 +8,10 @@
 ---
 
 ### 🖥 My Info
-- stack : Java, Kotlin, Spring, AWS
-- email : s22043@gsm.hs.kr
+- language : Java, Kotlin, Go, python
+- framework: Spring Boot, Spring Cloud, Spring WebFlux
+- cloud-native: AWS, Docker, Kubernetes, Kafka
+- contact : s22043@gsm.hs.kr, piyrw9754@gmail.com
 - others : [instagram](https://www.instagram.com/k_.hm/) [tistory](https://esperer.tistory.com/) [velog](https://velog.io/@hope0206)
 
 ---
