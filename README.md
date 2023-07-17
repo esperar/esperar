@@ -8,10 +8,10 @@
 ---
 
 ### 🖥 My Info
-- language : Java, Kotlin, Go, python
-- framework: Spring Boot, Spring Cloud, Spring WebFlux
-- cloud-native: AWS, Docker, Kubernetes, Kafka
-- contact : s22043@gsm.hs.kr, piyrw9754@gmail.com
+- language : Java, Kotlin, Go, Python
+- framework: Spring Boot, Spring Cloud, WebFlux
+- cloud-native: AWS, Docker, Kubernetes
+- contact : s22043@gsm.hs.kr
 - others : [instagram](https://www.instagram.com/k_.hm/) [tistory](https://esperer.tistory.com/) [velog](https://velog.io/@hope0206)
 
 ---
