@@ -10,7 +10,7 @@
 ### 🖥 My Info
 - career : [surfit](https://my.surfit.io/w/1591080736)
 - language : Java, Kotlin, Go, Python
-- framework: Spring Boot, Spring Cloud, WebFlux
+- framework: Spring Boot, Spring Cloud
 - cloud: AWS, Docker, Kubernetes
 - contact : s22043@gsm.hs.kr
 - others : [instagram](https://www.instagram.com/k_.hm/) [tistory](https://esperer.tistory.com/) [velog](https://velog.io/@hope0206)
