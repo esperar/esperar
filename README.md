@@ -1,8 +1,8 @@
 ### 👋 Hi. Welcome to Esperer's GitHub! 
 
-> I'm a Back-End Engineer Esperèr.  
+> I'm a Software Engineer Esperèr.  
 > **Enjoy a process, Have a leadership, Be sincere, Excellent challenge spirit.**  
-> I'm currently interested in Cloud Natvie Architecture, Application  
+> I'm currently interested in DevOps, Cloud Natvie Architecture, Application  
 > I will devote myself to learning with this attitude. Thx for reading.
 
 ---
