@@ -1,11 +1,9 @@
 ### 👋 Hi. Welcome to Esperer's GitHub! 
 
 - career : [surfit](https://my.surfit.io/w/1591080736)
-- language : Java, Kotlin, Go, Python
-- framework: Spring Boot, Spring Cloud
+- stack : Java, Kotlin, Go, Python
 - cloud: AWS, Docker, Kubernetes, terraform
 - contact : s22043@gsm.hs.kr
-- others : [instagram](https://www.instagram.com/k_.hm/) [tistory](https://esperer.tistory.com/) [velog](https://velog.io/@hope0206)
 
 ---
 
