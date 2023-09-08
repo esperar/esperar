@@ -1,13 +1,5 @@
 ### 👋 Hi. Welcome to Esperer's GitHub! 
 
-> I'm a Server Engineer Esperèr.  
-> **Enjoy a process, Have a leadership, Be sincere, Excellent challenge spirit.**  
-> I'm currently interested in DevOps, Cloud Natvie Architecture, Application  
-> I will devote myself to learning with this attitude. Thx for reading.
-
----
-
-### 🖥 My Info
 - career : [surfit](https://my.surfit.io/w/1591080736)
 - language : Java, Kotlin, Go, Python
 - framework: Spring Boot, Spring Cloud
