@@ -1,6 +1,6 @@
 ### 👋 Hi. Welcome to Esperer's GitHub! 
 
-- career : [surfit](https://my.surfit.io/w/1591080736), [Portfolio](https://esperer.notion.site/7bfaadd95dc2420198988a89b1de168c?pvs=4)
+- career : [Portfolio](https://esperer.notion.site/7bfaadd95dc2420198988a89b1de168c?pvs=4), [Surfit](https://my.surfit.io/w/1591080736)
 - stack : Java, Kotlin, Go, Python
 - cloud: AWS, Docker, Kubernetes, terraform
 - contact : s22043@gsm.hs.kr
