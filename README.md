@@ -10,7 +10,7 @@
 
 - spring-kafka (2023. 09. 17): [v3.1.0-M1](https://github.com/spring-projects/spring-kafka/releases/tag/v3.1.0-M1)  
 - spring-framework: [on PR ing...](https://github.com/spring-projects/spring-framework/pull/31264)
-- spring-boot: [on PR ing...](https://github.com/spring-projects/spring-boot/pull/37491)
+- spring-boot: [on PR approved](https://github.com/spring-projects/spring-boot/pull/37491)
 
 ---
 
