@@ -9,8 +9,8 @@
 ### 🖥 OpenSource Contribute in..
 
 - spring-kafka: [v3.1.0-M1](https://github.com/spring-projects/spring-kafka/releases/tag/v3.1.0-M1)  
-- spring-framework: [on PR on milestone](https://github.com/spring-projects/spring-framework/pull/31264)
-- spring-boot: [on PR on milestone](https://github.com/spring-projects/spring-boot/pull/37491)
+- spring-framework: [PR on milestone](https://github.com/spring-projects/spring-framework/pull/31264)
+- spring-boot: [PR on milestone](https://github.com/spring-projects/spring-boot/pull/37491)
 
 ---
 
