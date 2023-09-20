@@ -5,11 +5,13 @@
 - cloud: AWS, Docker, Kubernetes, terraform
 - contact : s22043@gsm.hs.kr
 
-### OpenSource Contribute in..
+---
 
-- Spring kafka (2023. 09. 17) [v3.1.0-M1](https://github.com/spring-projects/spring-kafka/releases/tag/v3.1.0-M1)  
-- Spring framework (2023. 09. 19) [on PR ing...](https://github.com/spring-projects/spring-framework/pull/31264)
-- Spring Boot (2023. 09. 20) [on PR ing...](https://github.com/spring-projects/spring-boot/pull/37491)
+### 🖥 OpenSource Contribute in..
+
+- spring-kafka (2023. 09. 17): [v3.1.0-M1](https://github.com/spring-projects/spring-kafka/releases/tag/v3.1.0-M1)  
+- spring-framework (2023. 09. 19): [on PR ing...](https://github.com/spring-projects/spring-framework/pull/31264)
+- spring-boot (2023. 09. 20): [on PR ing...](https://github.com/spring-projects/spring-boot/pull/37491)
 
 ---
 
