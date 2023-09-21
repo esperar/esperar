@@ -9,7 +9,7 @@
 ### 🖥 OpenSource Contribute in..
 
 - spring-kafka: [v3.1.0-M1](https://github.com/spring-projects/spring-kafka/releases/tag/v3.1.0-M1)  
-- spring-framework: [v6.1.0-RC1](https://github.com/spring-projects/spring-framework/commit/6caef9bb3c9dad61bddc28494b513c146f8ddfc4)
+- spring-framework: [v6.1.0-RC1](https://github.com/spring-projects/spring-framework/pull/31264)
 - spring-boot: [v2.7.17](https://github.com/spring-projects/spring-boot/pull/37491)
 
 ---
