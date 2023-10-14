@@ -1,3 +1,4 @@
+### 👋 Hello, Welcome to Khope's GitHub
 
  서버 개발자, 김희망입니다.
   
@@ -7,16 +8,19 @@
 
  모두에게 배움을 얻아갈 수 있다고 생각합니다. 그렇기에 항상 겸손한 자세로 가지고 배움을 추구하며 살아가고있습니다.
 
+---
 
-### 📋 Info
+
+### Info
 
 - career : [Portfolio](https://esperer.notion.site/7bfaadd95dc2420198988a89b1de168c?pvs=4)
 - skills: Kotlin, Java, Go
 - cloud: AWS, Docker, Kubernetes, terraform
 - contact : s22043@gsm.hs.kr
 
+---
 
-### 🖥 OpenSource Contribute in..
+### OpenSource Contribute in..
 
 - spring-kafka: [v3.1.0-M1](https://github.com/spring-projects/spring-kafka/releases/tag/v3.1.0-M1)  
 - spring-framework: [v6.1.0-RC1](https://github.com/spring-projects/spring-framework/pull/31264)
