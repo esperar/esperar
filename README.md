@@ -1,5 +1,7 @@
 ### 👋 Hello, Welcome to Khope's GitHub
 
+<br>
+
  서버 개발자, 김희망입니다.
   
  최고를 꿈꾸기에, 어느 누구보다 강한 정신력의 스탠스로 꾸준히 정진하는 개발자입니다.
@@ -8,10 +10,9 @@
 
  모두에게 배움을 얻아갈 수 있다고 생각합니다. 그렇기에 항상 겸손한 자세로 가지고 배움을 추구하며 살아가고있습니다.
 
----
+<br>
 
-
-### Info
+### My Information
 
 - career : [Portfolio](https://esperer.notion.site/7bfaadd95dc2420198988a89b1de168c?pvs=4)
 - skills: Kotlin, Java, Go
