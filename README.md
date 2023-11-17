@@ -1,12 +1,12 @@
 ### 👋 Hello, Welcome to Khope's GitHub
 
-서버 개발자, 김희망입니다.
-  
-최고를 꿈꾸기에, 어느 누구보다 강한 정신력의 스탠스로 꾸준히 정진하는 개발자입니다.
-  
-소프트웨어의 본질적인 가치는 고객의 만족으로부터 나온다고 생각합니다.
-  
-그렇기에 고객지향적 사고로 항상 고객의 니즈를 파악하기 위해 모든 피드백과 솔루션에 귀를 기울이고 있습니다.
+I am a Server Engineer, Khope
+
+I am a developer who strives steadily with a strong mental stance more than anyone else, dreaming of the best.
+
+I think the essential value of software comes from customer satisfaction.
+
+Therefore, I always listen to all feedback and solutions with customer-oriented thinking in order to understand their need
 
 
 ### My Information
