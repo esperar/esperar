@@ -2,11 +2,11 @@
 
 I am a Server Engineer, Khope
 
-I am a developer who strives steadily with a strong mental stance more than anyone else, dreaming of the best.
+I relentlessly strive with a strong mental resilience to pursue greatness.
 
 I think the essential value of software comes from customer satisfaction.
 
-Therefore, I always listen to all feedback and solutions with customer-oriented thinking in order to understand their need
+Therefore, I always listen carefully to customer feedback.
 
 
 ### My Information
