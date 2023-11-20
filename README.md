@@ -10,7 +10,7 @@ Therefore, I always listen carefully to customer feedback.
 
 
 ### My Information
-
+- portfolio: [Notion](https://esperer.notion.site/7bfaadd95dc2420198988a89b1de168c?pvs=4)
 - skills: Kotlin, Java, Go
 - cloud: AWS, Docker, Kubernetes, terraform
 - contact : s22043@gsm.hs.kr
