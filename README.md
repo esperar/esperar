@@ -1,6 +1,6 @@
 ### 👋 Hello, Welcome to K-hope's GitHub
 
-I am a Server Engineer, K-hope
+Hi, I am Server Engineer, K-hope
 
 I relentlessly strive with a strong mental resilience to pursue greatness.
 
