@@ -14,14 +14,6 @@ Therefore, I always listen carefully to customer feedback.
 - cloud: AWS, Docker, Kubernetes, terraform
 - contact : s22043@gsm.hs.kr
 
-
-### OpenSource Contribute in..
-
-- spring-kafka: [v3.1.0-M1](https://github.com/spring-projects/spring-kafka/releases/tag/v3.1.0-M1)  
-- spring-framework: [v6.1.0-RC1](https://github.com/spring-projects/spring-framework/pull/31264)
-- spring-boot: [v2.7.17](https://github.com/spring-projects/spring-boot/pull/37491)
-- line/armeria: [v1.26.0](https://github.com/line/armeria/pull/5201)
-
 ---
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hope0206&tag=개발)](https://velog.io/@hope0206/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B3%B5%EB%B6%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%EC%9A%94)
