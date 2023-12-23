@@ -1,12 +1,14 @@
 ### 👋 Hello, Welcome to K-hope's GitHub
 
-Hi, I am Server Engineer, K-hope
+Hi, I'm Khope, a Server engineer.
 
-I relentlessly strive with a strong mental resilience to pursue greatness.
+I believe in learning together and actively fostering the growth of myself and my colleagues.
 
-I think the essential value of software comes from customer satisfaction.
+I have a strong interest in cloud-native technologies and consider technical trade-offs to meet requirements.
 
-Therefore, I always listen carefully to customer feedback.
+I develop better products through endless efforts to reduce software task latency.
+
+I want to have a strong influence in the software world as a developer.
 
 
 ### My Information
