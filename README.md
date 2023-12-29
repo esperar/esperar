@@ -1,6 +1,6 @@
 ### 👋 Hello, Welcome to K-hope's GitHub
 
-Hi, I'm Khope, a Server engineer.
+Hi, I'm Khope, a Software Engineer.
 
 I believe in learning together and actively fostering the growth of myself and my colleagues.
 
