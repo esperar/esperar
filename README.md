@@ -2,6 +2,8 @@
 
 > I'm a student at Gwangju Software Meister HighSchool
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 Hi, I'm Khope, a Software Engineer.
 
 I believe in learning together and actively fostering the growth of myself and my colleagues.
