@@ -2,8 +2,6 @@
 
 > I'm a student at Gwangju Software Meister HighSchool
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
 Hi, I'm Khope, a Software Engineer.
 
 I believe in learning together and actively fostering the growth of myself and my colleagues.
@@ -20,7 +18,7 @@ I want to have a strong influence in the software world as a developer.
 - contact | s22043@gsm.hs.kr
 - interested | Go, Elixer, C++, GC, Rust, MSA
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/esperar&count_bg=%239576FF&title_bg=%23555555&icon=kotlin.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=huemang)](https://solved.ac/huemang) 
