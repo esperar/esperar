@@ -17,6 +17,7 @@ I want to have a strong influence in the software world as a developer.
 - skills | Kotlin, Java, Python
 - contact | s22043@gsm.hs.kr
 - interested | Go, Elixer, C++, GC, Rust, MSA
+- Blog: https://esperer.tistory.com
 
 ---
 
