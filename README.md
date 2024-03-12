@@ -1,7 +1,5 @@
 ### 👋 Hello, Welcome to K-hope's GitHub
 
-> I'm a student at Gwangju Software Meister HighSchool
-
 Hi, I'm Khope, a Software Engineer.
 
 I believe in learning together and actively fostering the growth of myself and my colleagues.
