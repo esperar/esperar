@@ -15,7 +15,7 @@ I want to have a strong influence in the software world as a developer.
 
 ### My Information
 - skills | Kotlin, Java, Python
-- interested | Go, Elixer, C++, GC, Rust, MSA
+- interested | Go, Elixir, C++, GC, Rust, MSA
 - Blog | https://esperer.tistory.com
 
 ---
