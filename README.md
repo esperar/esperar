@@ -1,18 +1,12 @@
 ### 👋 Hello, Welcome to K-hope's GitHub
 
-Hi, I am a Server/Infra Engineer developing high-performance and flexible software.
+Hi, I'm a Server/Infra Engineer developing high-performance, flexible software.
 
-I believe that the engineer's greatest strength lies in responding flexibly to overwhelming performance and customer needs,
+I believe in responding flexibly to performance and customer needs, focusing on developing software that changes and improves.
 
-developing software that changes and improves.
+Maintaining a strong sense of responsibility for achieving outstanding results is crucial.
 
-I think that an overwhelming sense of responsibility for achieving overwhelming figures and results is the stance I must maintain.
-
-I pursue a culture of extreme transparency and trust to enhance the capabilities within the organization for high performance.
-
-Based on these capabilities, I am conducting joint projects with the education office and developing/operating a service with over 3,000 users.
-
-
+I strive for a culture of extreme transparency and trust to enhance organizational capabilities for high performance.
 
 
 ### My Information
