@@ -2,11 +2,13 @@
 
 Hi, I'm a Server/Infra Engineer developing high-performance, flexible software.
 
-I believe in responding flexibly to performance and customer needs, focusing on developing software that changes and improves.
+I believe in responding flexibly to performance and customer needs, 
+
+focusing on developing software that changes and improves.
 
 Maintaining a strong sense of responsibility for achieving outstanding results is crucial.
 
-I strive for a culture of extreme transparency and trust to enhance organizational capabilities for high performance.
+I strive for a culture of transparency and trust to enhance organizational capabilities for high performance.
 
 
 ### My Information
