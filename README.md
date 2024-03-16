@@ -1,14 +1,18 @@
 ### 👋 Hello, Welcome to K-hope's GitHub
 
-Hi, I'm Khope, a Server/Infra Engineer.
+Hi, I am a Server/Infra Engineer developing high-performance and flexible software.
 
-I believe in learning together and actively fostering the growth of myself and my colleagues.
+I believe that the engineer's greatest strength lies in responding flexibly to overwhelming performance and customer needs,
 
-I have a strong interest in cloud-native technologies and consider technical trade-offs to meet requirements.
+developing software that changes and improves.
 
-I develop better products through endless efforts to reduce software task latency.
+I think that an overwhelming sense of responsibility for achieving overwhelming figures and results is the stance I must maintain.
 
-I want to have a strong influence in the software world as a developer.
+I pursue a culture of extreme transparency and trust to enhance the capabilities within the organization for high performance.
+
+Based on these capabilities, I am conducting joint projects with the education office and developing/operating a service with over 3,000 users.
+
+
 
 
 ### My Information
