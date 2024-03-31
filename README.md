@@ -12,7 +12,7 @@ I strive for a culture of transparency and trust to enhance organizational capab
 
 
 ### My Information
-- skills | Kotlin, Java, Python
+- skills | Kotlin, Java, K8s
 - interested | GitOps, MSA, Kafka
 - blog | https://esperer.tistory.com
 - portfolio | [khope.portfolio.dev](https://drive.google.com/file/d/177Rkxyu_ACYoNWzewypoqgaNs7jPWS0x/view?usp=sharing)
