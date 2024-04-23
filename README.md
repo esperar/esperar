@@ -1,5 +1,14 @@
 ### 👋 Hello, Welcome to K-hope's GitHub
 
+조직의 목표에 오너쉽을 가지고, 고객을 위한 유연하고 높은 퍼포먼스의 소프트웨어를 개발하는 엔지니어입니다.
+
+압도적인 결과 퍼포먼스를 위하여 끊임없는 연구와 전략 수립을 도모하는 것이 제가 갖추어나가야할 스탠스라고 생각합니다.
+
+계약 협상보다 고객과의 협력을, 계획을 따르기보다 변화에 대응하기를 가치 있게 여기고 있습니다.
+
+<details>
+  <summary>introduce</summary>
+  
 Hi, I'm a Server/Infra Engineer developing high-performance, flexible software.
 
 I believe in responding flexibly to performance and customer needs, 
@@ -9,9 +18,14 @@ focusing on developing software that changes and improves.
 Maintaining a strong sense of responsibility for achieving outstanding results is crucial.
 
 I strive for a culture of transparency and trust to enhance organizational capabilities for high performance.
+</details>
 
 
-### My Information
+> 
+
+
+---
+
 - skills | Kotlin, Java, K8s
 - interested | GitOps, MSA, Kafka
 - blog | https://esperer.tistory.com
