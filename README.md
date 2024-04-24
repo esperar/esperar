@@ -8,16 +8,6 @@
 
 압도적인 결과 퍼포먼스를 위하여 끊임없는 연구와 전략 수립을 도모하는 자세가 제가 갖추어나가야할 스탠스라고 생각합니다.
 
-Hi, I'm a Server/Infra Engineer developing high-performance, flexible software.
-
-I believe in responding flexibly to performance and customer needs, 
-
-focusing on developing software that changes and improves.
-
-Maintaining a strong sense of responsibility for achieving outstanding results is crucial.
-
-I strive for a culture of transparency and trust to enhance organizational capabilities for high performance.
-
 
 ---
 
