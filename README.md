@@ -8,7 +8,7 @@
 
 압도적인 결과 퍼포먼스를 위하여 끊임없는 연구와 전략 수립을 도모하는 자세가 제가 갖추어나가야할 스탠스라고 생각합니다.
 
----
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/esperar&count_bg=%239576FF&title_bg=%23555555&icon=kotlin.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=huemang)](https://solved.ac/huemang) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)](https://www.linkedin.com/in/esperer/) 
