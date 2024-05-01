@@ -4,9 +4,9 @@ I am an engineer who owns the organization's goals and develops flexible, high-p
 
 I value collaboration with customers over contract negotiations, and responding to change over following a plan.
 
-I endlessly research, immerse myself, and share information transparently with my team members, leading to explosive daily growth.
+I immerse myself, and share information transparently with my team members, leading to explosive daily growth.
 
-I believe that maintaining an attitude of relentless research and strategic planning to achieve overwhelming performance results is the stance I need to cultivate.
+I believe that maintaining an attitude of relentless research to achieve performance results is the stance I need to cultivate.
 
 ---
 
