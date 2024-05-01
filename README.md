@@ -8,8 +8,6 @@ I pursue.. Innovating technology to address core customer needs
 
 And to create a warm world where no one feels lonely
 
----
-
 *career*
 - GSM (3 years) | Software Engineer.
 
