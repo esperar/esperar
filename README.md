@@ -1,5 +1,7 @@
 ### 👋 Server Engineer. K-hope
 
+[resume](https://drive.google.com/file/d/1WdvDjQagb6erfOBOTPTIEPzedJsaCniW/view?usp=drive_link)
+
 My name is Hope. Depending on the perspective from which you view my name, 
 
 it can become beautifully meaningful or contain the meaning of a great calamity.
