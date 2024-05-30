@@ -1,6 +1,6 @@
 ### 👋 Server Engineer. K-hope
 
-[resume](https://drive.google.com/file/d/1WdvDjQagb6erfOBOTPTIEPzedJsaCniW/view?usp=drive_link) [portfolio](https://drive.google.com/file/d/1hkqA4XthmZbU9ZshdfapninPLjUBYbL_/view?usp=sharing)
+[resume](https://drive.google.com/file/d/1WdvDjQagb6erfOBOTPTIEPzedJsaCniW/view?usp=drive_link) [portfolio](https://drive.google.com/file/d/1hkqA4XthmZbU9ZshdfapninPLjUBYbL_/view?usp=sharing) [diary](https://esperer.tistory.com/category/%EC%83%9D%EC%A1%B4%EC%9D%BC%EC%A7%80)
 
 My name is Hope. Depending on the perspective from which you view my name, 
 
