@@ -16,4 +16,4 @@ And to create a warm world where no one feels lonely
 - GSM (3 years) | Software Engineer.
 
 *interested in*
-- redis, kafka, valhalla, gitops
+- redis, kafka, graalvm, hadoop
