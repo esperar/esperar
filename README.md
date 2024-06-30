@@ -1,4 +1,4 @@
-### 👋 Server Engineer. K-hope
+### 👋 Server Developer. K-hope
 
 [resume](https://drive.google.com/file/d/1WdvDjQagb6erfOBOTPTIEPzedJsaCniW/view?usp=drive_link) [portfolio](https://drive.google.com/file/d/1hkqA4XthmZbU9ZshdfapninPLjUBYbL_/view?usp=sharing) [diary](https://esperer.tistory.com/category/%EC%83%9D%EC%A1%B4%EC%9D%BC%EC%A7%80)
 
@@ -18,5 +18,3 @@ And to create a warm world where no one feels lonely
 *presentation*
 - [KotlinConf'2024 in South Korea](https://festa.io/events/5375)
 
-*interested in*
-- redis, kafka, graalvm, hadoop
