@@ -16,5 +16,5 @@ And to create a warm world where no one feels lonely
 - GSM (3 years) | Software Engineer.
 
 *presentation*
-- [KotlinConf'2024 in South Korea](https://festa.io/events/5375)
+- [KotlinConf'24 Global in South Korea](https://festa.io/events/5375)
 
