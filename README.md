@@ -13,7 +13,7 @@ And to create a warm world where no one feels lonely
 <br>
 
 *career*
-- GSM (3 years) | Software Engineer.
+- GSM (3 years) <sub><sup>Software Engineer (2022.03 ~ 2025.01)</sup></sub>
 
 *presentation*
 - [2023 GSM Conference](https://www.youtube.com/watch?v=QMPTSKB62RI&t=5s)
