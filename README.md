@@ -12,10 +12,10 @@ And to create a warm world where no one feels lonely
 
 <br>
 
-*career*
-- GSM (3 years) <sub><sup>Software Engineer (2022.03 ~ 2025.01)</sup></sub>
+#### *career*
+- GSM (3 years) | Software Engineer
 
-*presentation*
+#### *presentation*
 - [2023 GSM Conference](https://www.youtube.com/watch?v=QMPTSKB62RI&t=5s)
 - [KotlinConf'24 Global in South Korea](https://festa.io/events/5375)
 
