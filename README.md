@@ -1,6 +1,6 @@
 ### 👋 Software Engineer K-hope
 
-Hello. Welcome to my profile
+Hello, Nice to meet you. Welcome to my github profile.
 
 I am in charge of developing the loan review, execution, and repayment system.
 
