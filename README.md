@@ -1,4 +1,4 @@
-### Software Engineer K-hope
+### Software Engineer K-hope 👋 
 
 Hello, Nice to meet you. Welcome to my github profile.
 
